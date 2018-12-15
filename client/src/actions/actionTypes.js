@@ -1,0 +1,1 @@
+export const POST_ACTIVITY = 'POST_ACTIVITY'
